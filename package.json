@@ -1,6 +1,7 @@
 {
   "name": "neon-duelists-rogue",
   "version": "1.0.0",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build"
